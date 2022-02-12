@@ -1,3 +1,4 @@
+[Adyen NV Terms and Conditions (5 December 2017).pdf](https://github.com/github/docs/files/8052834/Adyen.NV.Terms.and.Conditions.5.December.2017.pdf)
 ---
 title: GitHub's products
 intro: 'An overview of {% data variables.product.prodname_dotcom %}''s products and pricing plans.'
